@@ -1,0 +1,21 @@
+{
+  "name": "zodiacapp",
+  "version": "1.0.0",
+  "description": "Making Zodiac application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Hardik Jain",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Making zodiac application"
+  }
+}
